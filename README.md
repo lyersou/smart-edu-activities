@@ -1,3 +1,16 @@
-# smart-edu-activities
-Intelligent Recommendation System for Educational Activities Based on Adaptive Learning
-This work presents the creation and development of an Intelligent Recommendation System (IRS) for learning activities designed to support English language study for children aged 3 to 12 years. Implemented as an Android mobile application, the system is based on adaptive learning to provide personalized content according to a profile questionnaire, usage history, test results, and the behavior of similar learners. The outcome is a functional application capable of dynamically suggesting appropriate learning activities that support and enhance children’s engagement and progress.
+# myapp
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.

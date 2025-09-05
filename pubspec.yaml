@@ -1,0 +1,51 @@
+name: myapp
+description: "A new Flutter project."
+
+publish_to: 'none'  # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.7.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  dio: ^5.4.0  # For making REST API requests
+  http: ^0.13.4  # HTTP package for making HTTP requests
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0  # Linting package for Flutter
+  shared_preferences: ^2.2.2  # Check latest version
+  url_launcher: ^6.2.5
+  video_player: ^2.7.0
+  audioplayers: ^5.2.1
+  flutter_pdfview: ^1.0.3 # Add this dependency
+  flutter_svg: ^2.0.7 # Or the latest version
+  intl: ^0.18.0 # Add this line (or use the latest version available)
+
+
+
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/log.png
+    - assets/lo.png
+    - assets/rabbit.png
+    - assets/rabbitt.png
+    - assets/animal.png
+    - assets/icons/
+    - assets/videos/
+    - assets/audios/
+    - assets/texts/
+    - assets/texts/a.pdf
+
+
+  fonts:
+    - family: Feather
+      fonts:
+        - asset: fonts/Feather-Bold.ttf
