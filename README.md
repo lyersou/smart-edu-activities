@@ -1,2 +1,3 @@
 # smart-edu-activities
 Intelligent Recommendation System for Educational Activities Based on Adaptive Learning
+This work presents the creation and development of an Intelligent Recommendation System (IRS) for learning activities designed to support English language study for children aged 3 to 12 years. Implemented as an Android mobile application, the system is based on adaptive learning to provide personalized content according to a profile questionnaire, usage history, test results, and the behavior of similar learners. The outcome is a functional application capable of dynamically suggesting appropriate learning activities that support and enhance children’s engagement and progress.
